@@ -132,13 +132,16 @@ disableHugoGeneratorInject = false
     url  = "https://twitter.com/mark_limb"
     
   [[params.social]]
+    name = "case"
+    url  = "https://staff.qut.edu.au/staff/mark.limb"
+  
+  [[params.social]]
     name = "googlescholar"
     url  = "https://scholar.google.com.au/citations?user=lGbeapoAAAAJ&hl=en&oi=sra"
     
   [[params.social]]
     name = "orcid"
     url  = "https://orcid.org/0000-0003-4577-4416"
-  
   
   [[params.social]]
     name = "github"
