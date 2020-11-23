@@ -1,5 +1,5 @@
 baseURL = "https://affectionate-fermat-be33e5.netlify.app/"
-title   = "Hello Friend NG"
+title   = "Mark Limb"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
 
@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+# copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
 # googleAnalytics = ""
 # disqusShortname = ""
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Mark Limb"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -55,11 +55,11 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = "Personal website for Mark Limb"
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Planning and Design"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
@@ -95,8 +95,8 @@ disableHugoGeneratorInject = false
   # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
   #
-  # footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
-  # footerRight = "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+  footerLeft = "Website generated with <a href=\"http://gohugo.io\">Hugo</a>"
+  footerRight = "Hello Friend NG Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
 
   # Colors for favicons
   #
@@ -106,12 +106,12 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "$ cd /home/"
+    logoText     = "home"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
-    # logoCursorColor    = "#67a2c9"
+    logoCursorColor    = "#006400"
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     # logoCursorAnimate  = "2s"
 
@@ -124,24 +124,25 @@ disableHugoGeneratorInject = false
 
   # Social icons
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
-
-  [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
-
+    url  = "mailto:mark@mlpd.com.au"
+  
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/mark_limb"
+    
+  [[params.social]]
+    name = "googlescholar"
+    url  = "https://scholar.google.com.au/citations?user=lGbeapoAAAAJ&hl=en&oi=sra"
+    
+  [[params.social]]
+    name = "orcid"
+    url  = "https://orcid.org/0000-0003-4577-4416"
+  
+  
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
-
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    url  = "https://github.com/mrklimb"
 
 [languages]
   [languages.en]
@@ -163,3 +164,20 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+
+  [[menu.main]]
+    identifier = "publications"
+    name       = "Publications"
+    url        = "pubs/"
+    
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "projects/"
+    
+  [[menu.main]]
+    identifier = "music"
+    name       = "Music"
+    url        = "music/"
+
+
