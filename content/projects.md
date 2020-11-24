@@ -1,3 +1,3 @@
 # Projects
 
-This is a temporary page for projects. 
+I'll be adding information about my current projects here when I get a chance
