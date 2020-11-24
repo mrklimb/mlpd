@@ -1,22 +1,47 @@
 ---
 aliases:
-- about-us
-- about-hugo
-- contact
 author:
-  name: Hugo Authors
-date: "2014-04-09"
+  name: Mark Limb
+date: "2020-11-23"
 title: About
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+## Welcome
+This is the personal website of Dr. Mark Limb.
 
-It makes use of a variety of open source projects including:
+Here, you can find out about my work, publicaitons, projects, and musical creations.
+&nbsp;
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+{{< image src="https://i.imgur.com/Ssr0e4V.png" alt="Dr. Mark Limb" position="center" style="border-radius: 8px;" >}}
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## About me
+I'm an urban planner and academic. I have over ten years' experience as a practising planner in both the private and public sectors. I have strong interests in planning education and research, infill development and centres planning, active transportation, and punk rock music. I have particular expertise in policy evaluation, land use planning, GIS, stakeholder engagement, and melodic vocals. I'm currently learning to write code in R to better manage data analysis.
+&nbsp;
+
+### Services
+I offer a wide range of planning and research services including:
+* Urban research and geospatial analysis
+* Policy development and evaluation
+* Structure and local area planning
+* Community engagement
+* Preparation of statuory instruments
+* Site appraisals and planning
+
+Projects can be undertaken through my own consultancy or through a joint research or consultancy project with QUT
+
+
+### Qualifications
+* PhD in Urban Planning (Queensland University of Technology)
+* Master of Urban and Regional Planning (Queensland University of Technology)
+* Bachelor of Arts (Anthropology) (University of Queensland)
+* Diploma of Project Management (Chifley Business School)
+
+### Associations
+* Member - Planning Institute of Australia (MPIA)
+* Member - Urban Design Alliance
+* Member - Pedestrian and Bicycle Transport Association of Australasia
+
+### Contact
+Please [send me an email](mark@mlpd.com.au) to get in touch
+ 
+
