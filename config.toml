@@ -1,4 +1,4 @@
-baseURL = "affectionate-fermat-be33e5.netlify.app"
+baseURL = "https://affectionate-fermat-be33e5.netlify.app/"
 title   = "Mark Limb"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
