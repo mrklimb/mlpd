@@ -20,6 +20,7 @@ I'm an urban planner and academic. I have over ten years' experience as a practi
 
 ### Services
 I offer a wide range of planning and research services including:
+
 * Urban research and geospatial analysis
 * Policy development and evaluation
 * Structure and local area planning
