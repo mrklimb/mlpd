@@ -15,7 +15,7 @@ Here, you can find out about my work, publicaitons, projects, and musical creati
 {{< image src="https://i.imgur.com/Ssr0e4V.png" alt="Dr. Mark Limb" position="center" style="border-radius: 8px;" >}}
 
 ## About me
-I'm an urban planner and academic. I have over ten years' experience as a practising planner in both the private and public sectors. I have strong interests in planning education and research, infill development and centres planning, active transportation, and punk rock music. I have particular expertise in policy evaluation, land use planning, GIS, stakeholder engagement, and melodic vocals. I'm currently learning to write code in R to better manage data analysis.
+I'm an urban planner and academic. I have over ten years' experience as a practising planner in both the private and public sectors. I have strong interests in planning education and research, infill development and centres planning, active transportation, and punk rock music. I have particular expertise in policy evaluation, land use planning, GIS, and stakeholder engagement. I'm currently learning to write code in R to better manage data analysis, and focussing on improved  tone and precision with my vocals.
 &nbsp;
 
 ### Services
