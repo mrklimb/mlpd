@@ -140,6 +140,10 @@ disableHugoGeneratorInject = false
     url  = "https://scholar.google.com.au/citations?user=lGbeapoAAAAJ&hl=en&oi=sra"
     
   [[params.social]]
+    name = "researchgate"
+    url  = "https://www.researchgate.net/profile/Mark_Limb"
+    
+  [[params.social]]
     name = "orcid"
     url  = "https://orcid.org/0000-0003-4577-4416"
   
