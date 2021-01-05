@@ -2,9 +2,13 @@
 
 ## [Toxic Bears](https://www.toxicbears.com/)
 I'm the lead vocalist for the Brisbane based avant-garage alternative rock band,
-[Toxic Bears](https://www.toxicbears.com/). From left: Dutchy Holland, Scott Brady, Mark Limb, Jamie Coyle, Josh Robertson.
+[Toxic Bears](https://www.toxicbears.com/). 
 
+### Full catalouge
+Check our all our releases on [your music service of choice](https://smarturl.it/toxicbears_music)
 
+### Band Photo
+From left: Dutchy Holland, Scott Brady, Mark Limb, Jamie Coyle, Josh Robertson.
 {{< image src="https://i.imgur.com/ZWV3DNc.jpg" alt="Toxic Bears" position="center" style="border-radius: 8px;" >}}
 &nbsp;
 
@@ -15,10 +19,9 @@ Our previous single, Participation Awards, came in 5th place in [4ZZZ's Hottest 
 &nbsp;
 
 ### Latest single
-Our latest single, Misspent Youth, is a funk rock track that considers what it means to choose a side. [Listen by clicking here](https://smarturl.it/misspentyouth) or watch the low budget music video below.
+Our latest single, Misspent Youth, is a funk rock track about how housing affordability issues screw up the planet and the lives of young people. [Listen by clicking here](https://smarturl.it/misspentyouth) or watch the low budget music video below.
 
 {{< youtube 0eHCivbobxE >}}
 &nbsp;
 
-### Full catalouge
-Check our all our releases on [your music service of choice](https://smarturl.it/toxicbears_music)
+
