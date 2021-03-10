@@ -18,18 +18,13 @@ Here, you can find out about my work, publicaitons, projects, and musical creati
 I'm an urban planner and academic. I have over ten years' experience as a practising planner in both the private and public sectors. I have strong interests in planning education and research, infill development and centres planning, active transportation, and punk rock music. I have particular expertise in policy evaluation, land use planning, GIS, and stakeholder engagement. I'm currently learning to write code in R to better manage data analysis, and focussing on improved  tone and precision with my vocals.
 &nbsp;
 
-### Services
-I offer a wide range of planning and research services including:
-
+### Expertise
 * Urban research and geospatial analysis
 * Policy development and evaluation
 * Structure and local area planning
 * Community engagement
 * Preparation of statuory instruments
 * Site appraisals and planning
-
-Projects can be undertaken through my own consultancy or through a joint research or consultancy project with QUT
-
 
 ### Qualifications
 * PhD in Urban Planning (Queensland University of Technology)
