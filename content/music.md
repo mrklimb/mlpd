@@ -19,9 +19,8 @@ Our previous single, Participation Awards, came in 5th place in [4ZZZ's Hottest 
 &nbsp;
 
 #### Latest single
-Our latest single, Misspent Youth, is a funk rock track about how housing affordability issues screw up the planet and the lives of young people. [Listen by clicking here](https://smarturl.it/misspentyouth) or watch the low budget music video below.
+Our latest single, My Bad Influences, is a psychedelic indie rock track about the sum of one's experiences. [Listen by clicking here](https://smarturl.it/mybadinfluences).
 
-{{< youtube 0eHCivbobxE >}}
 &nbsp;
 
 
