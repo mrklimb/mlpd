@@ -19,9 +19,9 @@ Our previous single, Participation Awards, came in 5th place in [4ZZZ's Hottest 
 &nbsp;
 
 #### Latest single
-Our latest single, My Bad Influences, is a psychedelic indie rock track about the sum of one's experiences. [Listen by clicking here](https://smarturl.it/mybadinfluences), or check the music video by Umberto Baresi below:
+Our latest single, Neighbourhood Planning, is a heavy rock track about urban planning nightmares. [Listen by clicking here](https://smarturl.it/neighbourhoodplan).
 
-{{< youtube cjPq9grVznY >}}
+{{< image src="https://i.imgur.com/qNoXYYY.jpg" alt="Neighbourhood Planning by Toxic Bears" position="center" style="border-radius: 8px;" >}}
 &nbsp;
 
 
