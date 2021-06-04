@@ -19,9 +19,9 @@ Our previous single, Participation Awards, came in 5th place in [4ZZZ's Hottest 
 &nbsp;
 
 #### Latest single
-Our latest single, Neighbourhood Planning, is a heavy rock track about urban planning nightmares. [Listen by clicking here](https://smarturl.it/neighbourhoodplan).
+Our latest single, Cutting Onions, is a heavy rock track about taking offence. [Listen by clicking here](https://smarturl.it/cutting_onions).
 
-{{< image src="https://i.imgur.com/qNoXYYY.jpg" alt="Neighbourhood Planning by Toxic Bears" position="center" style="border-radius: 8px;" >}}
+{{< image src="https://i.imgur.com/TKHNhyh.jpeg" alt="Cutting Onions by Toxic Bears" position="center" style="border-radius: 8px;" >}}
 &nbsp;
 
 
