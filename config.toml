@@ -127,9 +127,9 @@ disableHugoGeneratorInject = false
     name = "email"
     url  = "mailto:mark@mlpd.com.au"
   
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/mark_limb"
+  # [[params.social]]
+    # name = "twitter"
+    # url  = "https://twitter.com/mark_limb"
     
   [[params.social]]
     name = "case"
