@@ -19,9 +19,9 @@ Our previous single, Participation Awards, came in 5th place in [4ZZZ's Hottest 
 &nbsp;
 
 #### Latest single
-Our latest single, Cutting Onions, is a heavy rock track about taking offence. [Listen by clicking here](https://smarturl.it/cutting_onions).
+Our latest single, On The Way Out, is a classic 90s style grunge rock track. [Listen by clicking here](https://smarturl.it/onthewayout).
 
-{{< image src="https://i.imgur.com/TKHNhyh.jpeg" alt="Cutting Onions by Toxic Bears" position="center" style="border-radius: 8px;" >}}
+{{< image src="https://i.imgur.com/EkrzTP1.jpeg" alt="On The Way Out by Toxic Bears" position="center" style="border-radius: 8px;" >}}
 &nbsp;
 
 
