@@ -19,9 +19,9 @@ Our previous single, Participation Awards, came in 5th place in [4ZZZ's Hottest 
 &nbsp;
 
 #### Latest single
-Our latest single, On The Way Out, is a classic 90s style grunge rock track. [Listen by clicking here](https://smarturl.it/onthewayout).
+Our latest single, Glow, has a latin rock groove with a sardonic vibe. [Listen by clicking here](https://smarturl.it/toxicbears_glow).
 
-{{< image src="https://i.imgur.com/EkrzTP1.jpeg" alt="On The Way Out by Toxic Bears" position="center" style="border-radius: 8px;" >}}
+{{< image src="https://i.imgur.com/bkjEu9Y.jpeg" alt="Glow by Toxic Bears" position="center" style="border-radius: 8px;" >}}
 &nbsp;
 
 
