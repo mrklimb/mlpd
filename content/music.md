@@ -19,9 +19,9 @@ Our previous single, Participation Awards, came in 5th place in [4ZZZ's Hottest 
 &nbsp;
 
 #### Latest single
-Our latest single, Glow, has a latin rock groove with a sardonic vibe. [Listen by clicking here](https://smarturl.it/toxicbears_glow).
+Our latest single, Wouldn't It Be Excellent, has a snappy syncopation and is well worth a listen. [Listen by clicking here](https://lnk.to/wouldnt_it_be_excellent).
 
-{{< image src="https://i.imgur.com/bkjEu9Y.jpeg" alt="Glow by Toxic Bears" position="center" style="border-radius: 8px;" >}}
+{{< image src="[https://i.imgur.com/bkjEu9Y.jpeg](https://i.imgur.com/UR522Ze.jpeg)" alt="Wouldn't It Be Excellent album cover" position="center" style="border-radius: 8px;" >}}
 &nbsp;
 
 
