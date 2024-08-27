@@ -14,9 +14,9 @@ Check out all our releases on [your music service of choice](https://smarturl.it
 
 
 #### Latest single
-Our latest single, Five Star! [Listen by clicking here](https://lnk.to/fivestar_toxicbears).
+Our latest single, Out There! [Listen by clicking here](https://lnk.to/out_there).
 
-{{< image src="https://i.imgur.com/uFZQXrm.jpg" alt="Five Star album cover" position="center" style="border-radius: 8px;" >}}
+{{< image src="https://i.imgur.com/mzbxiVP.png" alt="Out There album cover" position="center" style="border-radius: 8px;" >}}
 &nbsp;
 
 
