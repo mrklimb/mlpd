@@ -14,10 +14,7 @@ Check out all our releases on [your music service of choice](https://smarturl.it
 
 
 #### Latest single
-Our latest single, Out There! [Listen by clicking here](https://lnk.to/out_there).
+Our latest single, No Sweat No Lies! [Listen by clicking here](https://lnk.to/no_sweat_no_lies).
 
-{{< image src="https://i.imgur.com/mzbxiVP.png" alt="Out There album cover" position="center" style="border-radius: 8px;" >}}
+{{< image src="https://i.imgur.com/ASWyL5c.png" alt="No Sweat No Lies album cover" position="center" style="border-radius: 8px;" >}}
 &nbsp;
-
-
-
